@@ -35,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1019-next-greater-node-in-linked-list) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
