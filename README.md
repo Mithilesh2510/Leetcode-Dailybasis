@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0349-intersection-of-two-arrays) |
@@ -33,16 +34,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0042-trapping-rain-water) |
 | [0349-intersection-of-two-arrays](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0349-intersection-of-two-arrays) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1019-next-greater-node-in-linked-list) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0042-trapping-rain-water) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0042-trapping-rain-water) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1019-next-greater-node-in-linked-list) |
 ## Math
 |  |
@@ -56,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0349-intersection-of-two-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
