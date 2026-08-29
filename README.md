@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0231-power-of-two) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
