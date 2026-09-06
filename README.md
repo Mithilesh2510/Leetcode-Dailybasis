@@ -99,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0176-second-highest-salary) |
+## String
+|  |
+| ------- |
+| [3110-score-of-a-string](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
