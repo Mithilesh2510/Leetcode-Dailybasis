@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0349-intersection-of-two-arrays) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1019-next-greater-node-in-linked-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -102,5 +103,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3110-score-of-a-string](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
