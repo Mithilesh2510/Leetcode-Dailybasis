@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0234-palindrome-linked-list) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0345-reverse-vowels-of-a-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
