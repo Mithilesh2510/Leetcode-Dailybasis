@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3875-construct-uniform-parity-array-i) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0231-power-of-two) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3783-mirror-distance-of-an-integer) |
