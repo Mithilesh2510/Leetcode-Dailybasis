@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3875-construct-uniform-parity-array-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3925-concatenate-array-with-reverse) |
 ## Stack
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1929-concatenation-of-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3925-concatenate-array-with-reverse) |
 ## Counting Sort
 |  |
 | ------- |
