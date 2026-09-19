@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0231-power-of-two) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1929-concatenation-of-array) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3925-concatenate-array-with-reverse) |
 ## Counting Sort
 |  |
