@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3498-reverse-degree-of-a-string](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3925-concatenate-array-with-reverse) |
 ## Counting Sort
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0345-reverse-vowels-of-a-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3110-score-of-a-string](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
