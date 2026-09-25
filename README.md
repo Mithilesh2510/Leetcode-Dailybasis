@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2418-sort-the-people](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2418-sort-the-people) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3483-unique-3-digit-even-numbers) |
 | [3945-digit-frequency-score](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3945-digit-frequency-score) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2418-sort-the-people](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2418-sort-the-people) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0881-boats-to-save-people) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2418-sort-the-people](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2418-sort-the-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0345-reverse-vowels-of-a-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2418-sort-the-people](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2418-sort-the-people) |
 | [3110-score-of-a-string](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
