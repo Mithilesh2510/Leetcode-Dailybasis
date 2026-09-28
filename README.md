@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0326-power-of-three) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0326-power-of-three) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0989-add-to-array-form-of-integer) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3232-find-if-digit-game-can-be-won) |
