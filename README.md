@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0234-palindrome-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1019-next-greater-node-in-linked-list) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0345-reverse-vowels-of-a-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2129-capitalize-the-title](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2129-capitalize-the-title) |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
