@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2418-sort-the-people](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2418-sort-the-people) |
+| [2678-number-of-senior-citizens](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2678-number-of-senior-citizens) |
 | [2784-check-if-array-is-good](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2784-check-if-array-is-good) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2129-capitalize-the-title](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2129-capitalize-the-title) |
 | [2418-sort-the-people](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2418-sort-the-people) |
+| [2678-number-of-senior-citizens](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
