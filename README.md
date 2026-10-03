@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2427-number-of-common-factors](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2427-number-of-common-factors) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
