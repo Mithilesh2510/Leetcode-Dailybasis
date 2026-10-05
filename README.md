@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3452-sum-of-good-numbers](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3452-sum-of-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
