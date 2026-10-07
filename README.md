@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0342-power-of-four) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0070-climbing-stairs) |
 ## Simulation
 |  |
 | ------- |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2427-number-of-common-factors) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
