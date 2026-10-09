@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0042-trapping-rain-water) |
 | [0349-intersection-of-two-arrays](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0349-intersection-of-two-arrays) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0485-max-consecutive-ones) |
 | [0705-design-hashset](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0705-design-hashset) |
 | [0881-boats-to-save-people](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0881-boats-to-save-people) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0342-power-of-four) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0989-add-to-array-form-of-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2180-count-integers-with-even-digit-sum) |
