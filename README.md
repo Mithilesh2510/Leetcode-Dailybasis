@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0705-design-hashset) |
 | [0881-boats-to-save-people](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0881-boats-to-save-people) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0989-add-to-array-form-of-integer) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0682-baseball-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1019-next-greater-node-in-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3498-reverse-degree-of-a-string) |
