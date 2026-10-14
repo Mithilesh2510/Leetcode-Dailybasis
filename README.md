@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0881-boats-to-save-people) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2418-sort-the-people](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2678-number-of-senior-citizens) |
 | [2784-check-if-array-is-good](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2784-check-if-array-is-good) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3925-concatenate-array-with-reverse) |
