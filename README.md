@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2784-check-if-array-is-good) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3483-unique-3-digit-even-numbers) |
+| [3731-find-missing-elements](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3731-find-missing-elements](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2418-sort-the-people) |
 | [2784-check-if-array-is-good](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2784-check-if-array-is-good) |
+| [3731-find-missing-elements](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
