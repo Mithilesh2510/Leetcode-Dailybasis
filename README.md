@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0042-trapping-rain-water) |
+| [0179-largest-number](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0179-largest-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0485-max-consecutive-ones) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0389-find-the-difference) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0389-find-the-difference) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0179-largest-number) |
 | [0881-boats-to-save-people](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
