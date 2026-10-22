@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0042-trapping-rain-water) |
 | [0179-largest-number](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0179-largest-number) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0485-max-consecutive-ones) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0004-median-of-two-sorted-arrays) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0349-intersection-of-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -275,9 +277,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0240-search-a-2d-matrix-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0004-median-of-two-sorted-arrays) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
