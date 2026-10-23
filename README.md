@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3668-restore-finishing-order](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3875-construct-uniform-parity-array-i) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0389-find-the-difference) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Database
 |  |
 | ------- |
