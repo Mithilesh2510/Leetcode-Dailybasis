@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0881-boats-to-save-people) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0989-add-to-array-form-of-integer) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1019-next-greater-node-in-linked-list) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1470-shuffle-the-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0240-search-a-2d-matrix-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Divide and Conquer
 |  |
