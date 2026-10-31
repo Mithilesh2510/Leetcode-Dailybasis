@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2678-number-of-senior-citizens) |
 | [2784-check-if-array-is-good](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2784-check-if-array-is-good) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/3232-find-if-digit-game-can-be-won) |
