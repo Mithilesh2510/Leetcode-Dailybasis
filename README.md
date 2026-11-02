@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0041-first-missing-positive) |
 | [0142-linked-list-cycle-ii](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0242-valid-anagram) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0004-median-of-two-sorted-arrays) |
+| [0041-first-missing-positive](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0042-trapping-rain-water) |
 | [0179-largest-number](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0179-largest-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0240-search-a-2d-matrix-ii) |
