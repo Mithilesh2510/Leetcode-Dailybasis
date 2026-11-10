@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/0176-second-highest-salary) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Mithilesh2510/Leetcode-Dailybasis/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## String
 |  |
 | ------- |
